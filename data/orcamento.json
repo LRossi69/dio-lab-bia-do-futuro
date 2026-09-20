@@ -1,0 +1,10 @@
+{
+  "mes": "09/2026",
+  "limites": {
+    "Alimentação": 1200.0,
+    "Transporte": 800.0,
+    "Lazer": 500.0,
+    "Moradia": 1000.0,
+    "Saúde": 500.0
+  }
+}

@@ -1,11 +1,11 @@
-data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+﻿data,categoria,descricao,valor,forma_pagamento,tipo_despesa
+2026-09-01,Alimentação,Supermercado,450.0,Cartão de crédito,Variável
+2026-09-03,Transporte,Combustível,350.0,Cartão de débito,Variável
+2026-09-05,Lazer,Cinema,80.0,Cartão de crédito,Variável
+2026-09-06,Alimentação,Restaurante,180.0,Cartão de crédito,Variável
+2026-09-07,Transporte,Aplicativo de transporte,180.0,Pix,Variável
+2026-09-08,Alimentação,Delivery,150.0,Cartão de crédito,Variável
+2026-09-09,Lazer,Streaming,120.0,Cartão de crédito,Fixa
+2026-09-10,Lazer,Restaurante,150.0,Cartão de crédito,Variável
+2026-09-11,Moradia,Condomínio,800.0,Débito automático,Fixa
+2026-09-12,Saúde,Farmácia,120.0,Cartão de débito,Variável

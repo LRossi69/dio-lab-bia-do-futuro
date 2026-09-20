@@ -1,0 +1,4 @@
+﻿data_alerta,categoria,percentual_utilizado,tipo_alerta,mensagem
+2026-08-15,Alimentação,82.0,Alerta preventivo,Categoria próxima do limite mensal
+2026-08-22,Lazer,90.0,Alerta preventivo,Categoria próxima do limite mensal
+2026-09-10,Lazer,70.0,Alerta preventivo,70% do orçamento da categoria utilizado
